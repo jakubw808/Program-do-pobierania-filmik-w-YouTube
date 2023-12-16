@@ -1,0 +1,3 @@
+dist/main/main.exe << To najprostsza droga do otworzenia programu
+
+*Bardzo docenie feedback dot. bugów lub mozliwosci usprawnienia/uproszczenia kodu, oraz każdą inną opinię ;)*
